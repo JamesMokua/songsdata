@@ -1,1 +1,15 @@
-
+{
+  "sounds": [
+    {
+    "id": "1",
+		"title": "Get Lucky",
+		"artist": "Daft Punk ft. Pharrell Williams, Nile Rodgers",
+		"source": "https://github.com/JamesMokua/songsdata/blob/main/data/songs/getlucky.mp3",
+		"artwork": "https://github.com/JamesMokua/songsdata/blob/main/data/artwork/getlucky.png"
+    
+    }
+  
+  
+  
+  ]
+}
